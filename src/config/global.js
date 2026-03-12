@@ -142,11 +142,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -154,7 +149,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_04_123500.zip',
+        download: 'downloads/CFA4_123500_DU.zip',
       },
       {
         icono: 'fas fa-download',
